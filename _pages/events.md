@@ -8,4 +8,4 @@ permalink: http://queue.gazerbeam.com/events
 published: true
 post_date: 2018-09-07 11:42:02
 ---
-[vsel-current-events]
+[vsel-all-events]
