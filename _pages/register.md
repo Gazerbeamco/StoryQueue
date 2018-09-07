@@ -1,9 +1,8 @@
 ---
----
 ID: 43
 post_title: Register
 author: morga2ja
-post_excerpt:
+post_excerpt: ""
 layout: page
 permalink: http://queue.gazerbeam.com/register
 published: true
